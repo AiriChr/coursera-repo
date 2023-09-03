@@ -1,7 +1,7 @@
 /* *****************************************************************************
- *  Name:              Ada Lovelace
+ *  Name:              Airish Christian P. Tabay
  *  Coursera User ID:  123456
- *  Last modified:     October 16, 1842
+ *  Last modified:     03/09/2023
  **************************************************************************** */
 
 public class RightTriangle {
